@@ -10,7 +10,7 @@ a web application for designing DNA nanostructures.
 
 Some other things I enjoy include sports :soccer: :football: :basketball:, space exploration :rocket:, and mathematics.
 
-PS: My favorite animals are penguins! :penguin: :penguin: :penguin: Why? Cause their cute!
+PS: My favorite animals are penguins! :penguin: :penguin: :penguin: Why? Cause they're cute!
 
 #### Why "Un"HumbleBen
 
