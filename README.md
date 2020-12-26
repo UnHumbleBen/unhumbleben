@@ -17,7 +17,7 @@ Some other things I enjoy include sports :soccer: :football: :basketball:, space
 
 #### Why "Un"HumbleBen
 
-My friends call me humble, but a *truly* humble person would know that they are not humble.
-
+> Good work is not done by 'humble' men. It is one of the first duties of a professor, for example, in any subject,
+to exaggerate a little both the importance of his subject and his importance in it. - G. H. Hardy
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=unhumbleben&show_icons=true)
