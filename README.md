@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently a undergraduate student at UC Davis majoring in Computer Science and Engineering. I love studying computation and writing code. I am fascinated
+I graduated from UC Davis with a B.S. in Computer Science and Engineering. I love studying computation and writing code. I am fascinated
 by two questions:
 
 1. How can we use computers to solve problems in the natural world?
